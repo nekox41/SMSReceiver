@@ -1,0 +1,15 @@
+[project]
+name = "smsreceiver"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "nekox41",email = "aameow@outlook.com"}
+]
+readme = "README.md"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
